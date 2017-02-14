@@ -1,5 +1,4 @@
 Name: Edan Meyer
-Net ID: emeyer10
 
 Collaborators: None
 
